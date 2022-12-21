@@ -18,7 +18,7 @@
   </a>
 </div>
 <br />
-Hi, I'm Fabricio Madruga, a Full Stack Developer based in Curitiba, Brazil with over 10 years of experience.
+Hi, I'm Fabricio Madruga, a Full Stack Developer based in Curitiba, Brazil with over 10 years of experience.<br />
 
 I have begun at age of 17, when I just got my undergraduate degree in high school, since then I keep studying and improving my front-end and back-end skills. International undergraduate degree diploma and courses certificates, most of them taken in the USA.
 
