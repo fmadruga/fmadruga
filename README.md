@@ -1,51 +1,85 @@
-### Hi there! I'm Fabricio.
-
-<div>
-  <a href="https://www.facebook.com/madruga.fabricio">
-    <picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208799037-e9180efe-a1d7-44e9-b500-b0db1480bf64.png" width="22" />
-    </picture>
-  </a>
-  <a href="https://www.instagram.com/famadruga">
-    <picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208799165-6979b1a6-22f9-4507-bfc5-937307c51279.png" width="22" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/fabricio-madruga-49276262/">
-    <picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208799252-6902c665-88da-461a-a37f-d6c92bef1704.png" width="22" />
-    </picture>
-  </a>
-</div>
+## :wave: Hey there, welcome to my GitHub!
 <br />
-Hey there! My name is Fabricio Madruga, a Brazilian full-stack developer with over 10 years of experience. I've been passionate about technology since I was a teenager. I began studying computing and programming at the age of 15 and at age of 17 I started working as a developer for digital agencies. I obtained my undergraduate degree abroad at USA Community College.
+<a href="https://www.linkedin.com/in/fabricio-madruga-49276262/" target="_blank" title="Fabricio Madruga - LinkedIn">
+<img src="https://img.shields.io/badge/Fabricio Madruga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="Fabricio Madruga - LinkedIn" />
+</a>
+<a href="https://www.instagram.com/famadruga" target="_blank" title="Fabricio Madruga - Instagram">
+<img src="https://img.shields.io/badge/@famadruga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Fabricio Madruga - Instagram" />
+</a>
+<a href="https://www.facebook.com/madruga.fabricio" target="_blank" title="Fabricio Madruga - Facebook">
+<img src="https://img.shields.io/badge/Fabricio Madruga-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24" alt="Fabricio Madruga - Facebook" />
+</a>
+
+<br />
+My name is Fabricio Madruga, a Brazilian full-stack developer with over 10 years of experience. I've been passionate about technology since I was a teenager. I began studying computing and programming at the age of 15 and at age of 17 I started working as a developer for digital agencies. I obtained my undergraduate degree abroad at USA Community College.
 <br /><br />
-In my free time, I enjoy creating and developing projects to challenge myself and keep my knowledge sharp. Fine, my life is not only about technology, but I'm also a social person. I like to spend time with my friends, going to the movies, parks, bars, and nightclubs. But currently, I'd rather be with myself, reading, studying, working out, and watching TV shows.
+I enjoy creating and developing projects to challenge myself and keep my knowledge sharp.
 <br /><br />
 I'm excited to share my skills and experience with you! Looking forward to working together in the future.
 <br /><br />
 
-**Languages and Tools**
-<div>
-  <picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208809902-a719f9b1-31ef-4cf6-9e72-b451d4d29bb4.png" width="22" />
-    </picture>
-  <picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208809924-fb3ee810-b45e-4ff2-a451-34f89f4a61b0.png" width="22" />
-    </picture>
-  <picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208809951-54b5f851-19b5-4ace-8f10-83ae01b52bbf.png" width="22" />
-    </picture>
-  <picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208809998-3f9b110c-f9e5-4f6d-b741-2d03e2c8d679.png" width="22" />
-    </picture>
-<picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208810027-83e983e0-3e51-468f-a265-e27e0685bdd8.png" width="22" />
-    </picture>
-<picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208810055-80e16b20-e951-4005-a0cf-49b066099c67.png" width="22" />
-    </picture>
-  <picture>
-      <img src="https://user-images.githubusercontent.com/46531442/208810069-44934cb5-b9b6-4d34-bb84-84cdfd606d24.png" width="22" />
-    </picture>
-</div>
+### Tech Stacks
+#### Languages
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" height="24" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" height="24" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="24" alt="JavaScript" />
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="24" alt="JSON" />
+<img height="24" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  alt="PHP" />
+<img height="24" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"  alt="Ruby" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="24" alt="Typescript" />
+
+#### Frameworks & Libraries
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="24" alt="Angular" />
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" height="24" alt="AngularJs" />
+<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" height="24" alt="Apollo GraphQL" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="24" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" height="24" alt="Composer" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="24" alt="Docker" />
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" height="24" alt="Elixir" />
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" height="24" alt="Expo" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="24" alt="ExpressJs" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="24" alt="Firebase" />
+<img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" height="24" alt="Font Awesome" />
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="24" alt="GraphQL" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+" alt="Jest" height="24" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="24" alt="JQuery" />
+<img height="24" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"  alt="Laravel" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="24" alt="Material UI" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24" alt="Next JS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="24" alt="NodeJs" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+" height="24" alt="NPM">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24" alt="ReactJs" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="24" alt="React Native" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="24" alt="Redux" />
+<img height="24" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"  alt="Ruby on Rails" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="24" alt="SASS" />
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="24" alt="Styled-Components" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" height="24" alt="YARN" />
+
+#### Linters
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" height="24" alt="ESLINT" />
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" height="24" alt="Prettier" />
+
+#### Clouds
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="24" alt="Amazon AWS" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="24" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="24" alt="Heroku" />
+
+#### Databases
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="24" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="24" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="24" alt="PostegreSQL" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="24" alt="SQLite" />
+
+#### ORM
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="24" alt="Sequelize" />
+
+#### Design
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height="24" alt="Adobe Illustrator" />
+<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" height="24" alt="Adobe InDesign" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="24" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="24" alt="Adobe XD" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="24" alt="Figma" />
+<img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" height="24" alt="Sketch" />
