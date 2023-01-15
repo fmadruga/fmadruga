@@ -18,11 +18,12 @@
   </a>
 </div>
 <br />
-Hi, I'm Fabricio Madruga, a Full Stack Developer based in Curitiba, Brazil with over 10 years of experience.<br />
-
-I have begun at age of 17, when I just got my undergraduate degree in high school, since then I keep studying and improving my front-end and back-end skills. International undergraduate degree diploma and courses certificates, most of them taken in the USA.
-
-I've joined up with digital agencies over my career, as a result I got experience on developing for small, medium and big companies within a varied business' line. Currently, I work as self employee providing services and joining up with the development team, tech leader and even project manager. In the past years, I worked in companies with a focused line of business, urban mobility, e-learning, human resources are some quite examples, helping to develop new features, architecting new products and leading new projects.
+Hey there! My name is Fabricio Madruga, a Brazilian full-stack developer with over 10 years of experience. I've been passionate about technology since I was a teenager. I began studying computing and programming at the age of 15 and at age of 17 I started working as a developer for digital agencies. I obtained my undergraduate degree abroad at USA Community College.
+<br /><br />
+In my free time, I enjoy creating and developing projects to challenge myself and keep my knowledge sharp. Fine, my life is not only about technology, but I'm also a social person. I like to spend time with my friends, going to the movies, parks, bars, and nightclubs. But currently, I'd rather be with myself, reading, studying, working out, and watching TV shows.
+<br /><br />
+I'm excited to share my skills and experience with you! Looking forward to working together in the future.
+<br /><br />
 
 **Languages and Tools**
 <div>
