@@ -9,10 +9,12 @@
 </a>
 <br />
 <br />
-My name is Fabricio Madruga, a Brazilian full-stack developer with over 10 years of experience. I've been passionate about technology since I was a teenager. I began studying computing and programming at the age of 15 and at age of 17 I started working as a developer for digital agencies. I obtained my undergraduate degree abroad at USA Community College.
-<br /><br />
-I enjoy creating and developing projects to challenge myself and keep my knowledge sharp.
-<br /><br />
+My name is Fabricio Madruga, a Brazilian full-stack developer with over 10 years of experience. I've been passionate about technology since I was a teenager. I began studying computing and programming at the age of 15 and at age of 17 I started working as a developer for digital agencies. I obtained my undergraduate degree abroad at a USA Community College.
+<br />
+<br />
+In addition to my experience as a full-stack developer, I am also a business owner. I founded my own tech company, **@codefulagency**, where we develop innovative solutions for our clients. This experience has taught me the importance of teamwork and leadership, as well as honed my project management skills. It's a great accomplishment and it allows me to bring a unique perspective to any project I work on.
+<br />
+<br />
 I'm excited to share my skills and experience with you! Looking forward to working together in the future.
 <br /><br />
 
