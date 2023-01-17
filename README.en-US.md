@@ -127,11 +127,6 @@ I'm excited to share my skills and experience with you! Looking forward to worki
 </details>
 
 ### :speech_balloon: Like to know else? Let's talk.
-
 Pick a slot if you'd like to meet me and chat about anything you want to - but make sure to describe the agenda.
 
 [<img src="https://img.shields.io/badge/30%20Min%20Meeting-000000?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=00897B" height="32" alt="Fabricio Madruga | Google Meet">](https://calendly.com/famadruga/30-min-meeting "Fabricio Madruga | Google Meet")
-
-### :chart: GitHub Stats
-
-![Fabricio Madruga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmadruga&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=1D70B8)
