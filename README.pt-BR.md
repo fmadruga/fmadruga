@@ -1,4 +1,4 @@
-## E aí, eu sou Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+## E aí, eu sou Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <a href="https://github.com/fmadruga" title="English Version"><img src="https://img.shields.io/badge/English%20Version-B31942?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0A3161" height="24" alt="English Version"></a>
 
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=fmadruga&label=Visitantes&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" height="24">
 
