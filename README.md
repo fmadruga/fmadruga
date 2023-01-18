@@ -1,4 +1,4 @@
-## Hey there, I'm Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br><a href="https://github.com/fmadruga/fmadruga/blob/main/README.pt-BR.md" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
+## Hey there, I'm Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br><br><a href="https://github.com/fmadruga/fmadruga/blob/main/README.pt-BR.md" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
 
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=fmadruga&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" height="24">
 
