@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES6", 
+    "target": "ES6",
     "module": "commonjs",
     "outDir": "./dist",
     "esModuleInterop": true,
@@ -8,13 +8,16 @@
     "strict": true,
     "skipLibCheck": true,
     "allowJs": true,
-    "typeRoots": ["./src/types", "./node_modules/@types"],
+    "typeRoots": [
+      "./src/types",
+      "./node_modules/@types"
+    ],
   },
   "include": [
-    "src/**/*.ts",
-    "src/config/config.js",
+    "./src/**/*.ts",
+    "./src/config/config.js",
   ],
   "exclude": [
-    "node_modules"
+    "./node_modules"
   ]
 }
