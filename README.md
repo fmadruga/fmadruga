@@ -1,4 +1,6 @@
-## Hey there, I'm Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br><br><a href="https://github.com/fmadruga/fmadruga/blob/main/README.pt-BR.md" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
+## Hey there, I'm Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+<br><br><a href="https://github.com/fmadruga/fmadruga/blob/main/README.pt-BR.md" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
 
 [<img src="https://img.shields.io/badge/Fabricio Madruga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="Fabricio Madruga | LinkedIn">](https://www.linkedin.com/in/fabricio-madruga-49276262/ "Fabricio Madruga | LinkedIn")
 [<img src="https://img.shields.io/badge/@famadruga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Fabricio Madruga | Instagram">](https://www.instagram.com/famadruga "Fabricio Madruga | Instagram")

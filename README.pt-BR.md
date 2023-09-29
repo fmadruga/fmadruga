@@ -1,4 +1,6 @@
-## E aí, eu sou Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br><br><a href="https://github.com/fmadruga" title="English Version"><img src="https://img.shields.io/badge/English%20Version-B31942?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0A3161" height="24" alt="English Version"></a>
+## E aí, eu sou Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+<br><br><a href="https://github.com/fmadruga" title="English Version"><img src="https://img.shields.io/badge/English%20Version-B31942?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0A3161" height="24" alt="English Version"></a>
 
 [<img src="https://img.shields.io/badge/Fabricio Madruga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="Fabricio Madruga | LinkedIn">](https://www.linkedin.com/in/fabricio-madruga-49276262/ "Fabricio Madruga | LinkedIn")
 [<img src="https://img.shields.io/badge/@famadruga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Fabricio Madruga | Instagram">](https://www.instagram.com/famadruga "Fabricio Madruga | Instagram")
