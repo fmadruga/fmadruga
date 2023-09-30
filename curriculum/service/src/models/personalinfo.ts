@@ -1,3 +1,4 @@
+import { differenceInYears } from 'date-fns';
 import { CreationOptional, DataTypes, Model, Optional } from 'sequelize';
 import { sequelize } from '../config/database';
 
@@ -12,6 +13,7 @@ interface PersonalInfoAttributes {
   email: string;
   nationality: string;
   birthdate: Date;
+  age?: number;
   gender: string;
 }
 
@@ -86,6 +88,12 @@ PersonalInfo.init(
       type: DataTypes.VIRTUAL,
       get() {
         return `${this.firstname} ${this.lastname}`;
+      },
+    },
+    age: {
+      type: DataTypes.VIRTUAL,
+      get() {
+        return differenceInYears(new Date(), new Date(this.birthdate));
       },
     },
   },

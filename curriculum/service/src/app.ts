@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import express, { Application, Request, Response } from 'express';
 import morgan from 'morgan';
 import { connection, sequelize } from './config/database';
+import routes from './core/routes';
 import { error } from './helpers/responses';
 
 dotenv.config();
@@ -27,6 +28,8 @@ app.use(cors(corsOptions));
 if (isDevelopment) {
   app.use(morgan('dev'));
 }
+
+app.use('/api', routes);
 
 app.use((request: Request, response: Response) => {
   response

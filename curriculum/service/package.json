@@ -11,7 +11,8 @@
     "start:prod": "pm2 start dist/app.js --name 'curriculum-service'",
     "stop:prod": "pm2 stop 'curriculum-service'",
     "migrate:up": "npx ts-node ./node_modules/.bin/sequelize-cli db:migrate",
-    "migrate:undo": "npx ts-node ./node_modules/.bin/sequelize-cli db:migrate:undo"
+    "migrate:undo": "npx ts-node ./node_modules/.bin/sequelize-cli db:migrate:undo",
+    "db:seed:up": "npx ts-node ./node_modules/.bin/sequelize-cli db:seed:all"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
