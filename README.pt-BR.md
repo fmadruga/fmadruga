@@ -1,19 +1,21 @@
 ## E aí, eu sou Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<br><br><a href="https://github.com/fmadruga" title="English Version"><img src="https://img.shields.io/badge/English%20Version-B31942?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0A3161" height="24" alt="English Version"></a>
+<br><a href="https://github.com/fmadruga" title="English Version"><img src="https://img.shields.io/badge/English%20Version-B31942?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=0A3161" height="24" alt="English Version"></a>
 
 [<img src="https://img.shields.io/badge/Fabricio Madruga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="Fabricio Madruga | LinkedIn">](https://www.linkedin.com/in/fabricio-madruga-49276262/ "Fabricio Madruga | LinkedIn")
 [<img src="https://img.shields.io/badge/@famadruga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Fabricio Madruga | Instagram">](https://www.instagram.com/famadruga "Fabricio Madruga | Instagram")
-[<img src="https://img.shields.io/badge/Fabricio Madruga-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24" alt="Fabricio Madruga | Facebook">](https://www.facebook.com/madruga.fabricio "Fabricio Madruga | Facebook")
 [<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" height="24" alt="Buy me a coffee">](https://www.buymeacoffee.com/famadruga "Buy me a coffee")
 
-Sou desenvolvedor full-stack com mais de 10 anos de experiência. Eu sou apaixonado por tecnologia desde adolescente. Comecei a estudar computação e programação com 15 anos e aos 17 comecei a trabalhar como desenvolvedor em agências digitais.
+Iniciei minha jornada como desenvolvedor full-stack aos 17 anos, logo após concluir o ensino médio técnico em informática. Ao longo dos anos, acumulei uma valiosa experiência trabalhando em agências digitais de 2011 a 2018. Essa trajetória me permitiu mergulhar em projetos de diversas escalas e segmentos, desenvolvendo uma compreensão abrangente do ciclo completo de desenvolvimento e gerenciamento de projetos.
 
-Além da minha experiência, sou também um empresário. Fundei minha própria empresa de tecnologia, <a href="https://github.com/codefulagency" target="_blank" title="Codeful - GitHub"><strong>Codeful</strong></a>, onde desenvolvemos soluções inovadoras para nossos clientes. Essa experiência me ensinou a importância do trabalho em equipe e liderança, além de ter aprimorado minhas habilidades de gerenciamento de projetos. É uma grande realização e me permite trazer uma perspectiva única para qualquer projeto em que trabalho.
+Durante esse período, pude aprimorar minhas habilidades não apenas na tecnologia, mas também no aspecto humano da equipe. Compreendi a importância do trabalho colaborativo, liderando e sendo uma referência técnica para meus colegas. Essa experiência não apenas solidificou meu conhecimento técnico, mas também cultivou minhas habilidades de liderança e a capacidade de conduzir equipes para alcançar objetivos comuns.
 
-Estou animado para compartilhar minhas habilidades e experiência com você! Ansioso para trabalharmos juntos no futuro.
+Após de 2018, comecei atuar mais como prestador de serviços, concentrando-me em segmentos específicos. Minha expertise abrange fintechs, aplicativos para recursos humanos, soluções de mobilidade urbana, sistemas para instituições de ensino, entre outros.
+
+Estou entusiasmado para contribuir com minha experiência técnica e liderança em projetos desafiadores. Vamos conectar-nos e discutir como posso agregar valor à sua equipe ou projeto.
 
 ### :hammer_and_wrench: Stacks
+
 <details>
 <summary>
 <b>
@@ -127,6 +129,7 @@ Estou animado para compartilhar minhas habilidades e experiência com você! Ans
 </details>
 
 ### :speech_balloon: Gostaria de saber mais? Vamos conversar.
+
 Escolha um horário se você gostaria de me conhecer e conversar sobre qualquer coisa que desejar - mas tenha certeza de descrever a pauta.
 
 [<img src="https://img.shields.io/badge/Agendar%20Horário-000000?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=00897B" height="32" alt="Fabricio Madruga | Google Meet">](https://calendly.com/famadruga/30-min-meeting "Fabricio Madruga | Google Meet")

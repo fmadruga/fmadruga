@@ -1,19 +1,21 @@
 ## Hey there, I'm Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<br><br><a href="https://github.com/fmadruga/fmadruga/blob/main/README.pt-BR.md" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
+<br><a href="https://github.com/fmadruga/fmadruga/blob/main/README.pt-BR.md" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
 
 [<img src="https://img.shields.io/badge/Fabricio Madruga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="Fabricio Madruga | LinkedIn">](https://www.linkedin.com/in/fabricio-madruga-49276262/ "Fabricio Madruga | LinkedIn")
 [<img src="https://img.shields.io/badge/@famadruga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Fabricio Madruga | Instagram">](https://www.instagram.com/famadruga "Fabricio Madruga | Instagram")
-[<img src="https://img.shields.io/badge/Fabricio Madruga-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24" alt="Fabricio Madruga | Facebook">](https://www.facebook.com/madruga.fabricio "Fabricio Madruga | Facebook")
 [<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" height="24" alt="Buy me a coffee">](https://www.buymeacoffee.com/famadruga "Buy me a coffee")
 
-I'm a full-stack developer with over 10 years of experience. I've been passionate about technology since I was a teenager. I began studying computing and programming at the age of 15 and at age of 17 I started working as a developer for digital agencies.
+I began my journey as a full-stack developer at the age of 17, shortly after completing my technical high school education in computer science. Over the years, I have gained valuable experience working in digital agencies from 2011 to 2018. This path allowed me to immerse myself in projects of various scales and industries, developing a comprehensive understanding of the entire development and project management lifecycle.
 
-In addition to my experience, I am also a business owner. I founded my own tech company, <a href="https://github.com/codefulagency" target="_blank" title="Codeful - GitHub"><strong>Codeful</strong></a>, where we develop innovative solutions for our clients. This experience has taught me the importance of teamwork and leadership, as well as honed my project management skills. It's a great accomplishment and it allows me to bring a unique perspective to any project I work on.
+During this period, I honed not only my technical skills but also the human aspect of teamwork. I grasped the importance of collaborative work, leading and serving as a technical reference for my colleagues. This experience not only solidified my technical knowledge but also cultivated my leadership skills and the ability to guide teams toward common goals.
 
-I'm excited to share my skills and experience with you! Looking forward to working together in the future.
+Post-2018, I transitioned more into a service provider role, focusing on specific segments. My expertise spans across fintech, human resources applications, urban mobility solutions, systems for educational institutions, among others.
+
+I am eager to contribute my technical expertise and leadership to challenging projects. Let's connect and discuss how I can add value to your team or project.
 
 ### :hammer_and_wrench: Tech Stacks
+
 <details>
 <summary>
 <b>
@@ -127,6 +129,7 @@ I'm excited to share my skills and experience with you! Looking forward to worki
 </details>
 
 ### :speech_balloon: Like to know else? Let's talk.
+
 Pick a slot if you'd like to meet me and chat about anything you want to - but make sure to describe the agenda.
 
 [<img src="https://img.shields.io/badge/30%20Min%20Meeting-000000?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=00897B" height="32" alt="Fabricio Madruga | Google Meet">](https://calendly.com/famadruga/30-min-meeting "Fabricio Madruga | Google Meet")
