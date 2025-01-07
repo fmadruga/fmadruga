@@ -1,5 +1,11 @@
 ## Hey there, I'm Fabricio Madruga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
+**Full-Stack Developer | Front-End Specialist | Freelancer**
+
+:round_pushpin: Curitiba, Parana - Brazil :brazil:
+
+### :man_technologist_dark_skin_tone: About Me
+
 <br><a href="https://github.com/fmadruga/fmadruga/blob/main/README.pt-BR.md" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
 
 [<img src="https://img.shields.io/badge/Fabricio Madruga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="Fabricio Madruga | LinkedIn">](https://www.linkedin.com/in/fabricio-madruga-49276262/ "Fabricio Madruga | LinkedIn")
