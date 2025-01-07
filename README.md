@@ -4,7 +4,7 @@
 
 :round_pushpin: Curitiba, Parana - Brazil :brazil:
 
-### :man_technologist_dark_skin_tone: About Me
+### :man_technologist_tone5: About Me
 
 <br><a href="https://github.com/fmadruga/fmadruga/blob/main/README.pt-BR.md" title="Versão em Português"><img src="https://img.shields.io/badge/Versão%20em%20Português-FEDD00?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=009739" height="24" alt="Versão em Portugês"></a>
 
